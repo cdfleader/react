@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padiing: 0;
+    text-decoration: none;
+    
+
+
+
+
+}
+body {
+    
+    
+}
+
+header{
+    height: 100vh;
+    width: 100vw;
+
+    border-em: 2px;
+
+    
+}
+ 
+.navbar {
+    
+background-color: #3B7080;
+    width: 100 wh;
+    height: 60px;
+    overflow: hidden;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+
+}
+img.logo {
+    height: 40px;
+   
+}
+    
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: white;
+    
+
+
+}
+nav li {
+   display: flex;
+    float: right; /* Fait flotter la liste à droite */
+    margin-left: 20px; /* Ajoute une marge à gauche pour éviter le chevauchement */
+  }
+  ul li:nth-child(2) {
+    margin-left: 700px;
+    
+
+  }
+
+nav li a {
+
+    color: white; 
+   
+  }
+
+main {
+    background-color: aqua;
+    background-size:cover;
+    height: 90vh;
+    background-image: url("TROUVE TON ALTERNANT EN DEUX CLICK (3).png")
+   
+}
+
+  

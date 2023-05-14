@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padiing: 0;
+    text-decoration: none;
+    
+
+
+
+
+}
+body {
+    
+    
+}
+
+header{
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    border-em: 2px;
+
+    
+}
+ 
+.navbar {
+    position: absolute;
+    margin: 30px;
+    display: flex;
+}
+img.menu {
+    height: 40px;
+    width:40px;
+}
+ 
+    
+ul {
+    list-style-type: none;
+    font-size: 2 em;
+
+
+}

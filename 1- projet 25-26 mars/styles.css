@@ -1,0 +1,32 @@
+
+#chronometer {
+    font-size: 3rem;
+    font-family: monospace;
+    text-align: center;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .btn {
+    font-size: 1.5rem;
+    font-family: monospace;
+    padding: 0.5rem 1rem;
+    ;
+    
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+  }
+  
+  .btn:hover {
+    background-color: #0062cc;
+    
+  }
+
+  
+  
